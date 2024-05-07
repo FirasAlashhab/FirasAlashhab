@@ -3,7 +3,7 @@
 <h2>👨‍💻 Fullstack Angular Developer:</h2>
 
 - <b>Angular/ASP.NET projects:</b>
-  - [Yami No Mori (Simple Horror Game) - My first Unreal Engine Game :) ](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Coding Blogs project:) ](https://github.com/joshmadakor1/Algorithms-Practice)
   - 
 
 
