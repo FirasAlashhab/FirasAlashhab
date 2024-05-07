@@ -9,8 +9,8 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://twitter.com/AlashhabFiras" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://www.linkedin.com/in/firas-alashhab-8aaab12a3/" />][linkedin]
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://img.icons8.com/color/48/000000/twitter--v1.png" />][twitter]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" />][linkedin]
 
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/c/joshmadakor
