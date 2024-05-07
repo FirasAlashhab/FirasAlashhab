@@ -9,13 +9,11 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://img.icons8.com/color/48/000000/twitter--v1.png" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" />][linkedin]
+[<img align="left" alt="FirasAlashhab | Twitter" width="22px" src="https://img.icons8.com/color/48/000000/twitter--v1.png" />][twitter]
+[<img align="left" alt="FirasAlashhab | LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" />][linkedin]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[twitter]: https://twitter.com/AlashhabFiras
+[linkedin]: https://www.linkedin.com/in/firas-alashhab-8aaab12a3/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
