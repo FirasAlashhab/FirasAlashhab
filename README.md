@@ -3,7 +3,7 @@
 <h2>👨‍💻 Fullstack Angular Developer:</h2>
 
 - <b>Angular/ASP.NET projects:</b>
-  - [Coding Blogs Project Repository. ](https://github.com/FirasAlashhab/CodingBlogs) Visit the deployed website: [Coding Blogs Website.](https://firasalashhab.github.io/CodingBlogs/)
+  - [Coding Blogs Project Repository. ](https://github.com/FirasAlashhab/CodingBlogs), Also you can visit the deployed website: [Coding Blogs Website.](https://firasalashhab.github.io/CodingBlogs/)
   - 
 
 
