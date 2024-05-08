@@ -3,8 +3,8 @@
 <h2>👨‍💻 Fullstack Angular Developer:</h2>
 
 - <b>Angular/ASP.NET projects:</b>
-  - [Coding Blogs project. ](https://github.com/FirasAlashhab/CodingBlogs)
-  - Visit the deployed website: [Coding Blogs](https://firasalashhab.github.io/CodingBlogs/)
+  - [Coding Blogs project. ](https://github.com/FirasAlashhab/CodingBlogs) Visit the deployed website: [Coding Blogs](https://firasalashhab.github.io/CodingBlogs/)
+  - 
 
 
 <h2> 🤳 Connect with me:</h2>
