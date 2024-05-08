@@ -3,7 +3,7 @@
 <h2>👨‍💻 Fullstack Angular Developer:</h2>
 
 - <b>Angular/ASP.NET projects:</b>
-  - [Coding Blogs project. ](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Coding Blogs project. ](https://github.com/FirasAlashhab/CodingBlogs)
   - 
 
 
