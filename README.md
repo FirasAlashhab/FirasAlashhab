@@ -5,6 +5,7 @@
 - <b>Angular/ASP.NET projects:</b>
   - [Coding Blogs Project Repository. ](https://github.com/FirasAlashhab/CodingBlogs), Also you can visit the deployed website: [Coding Blogs Website.](https://firasalashhab.github.io/CodingBlogs/)
   - [Bank-Dashboard Project Repository. ](https://github.com/FirasAlashhab/Bank-Dashboard), Also you can visit the deployed website: [Bank-Dashboard Website.](https://firasalashhab.github.io/Bank-Dashboard/)
+  - [EasyMart Project Repository. ](https://github.com/FirasAlashhab/EasyMart), Also you can visit the deployed website: [EasyMart Website.](https://firasalashhab.github.io/EasyMart/)
 
 
 <h2> 🤳 Connect with me:</h2>
